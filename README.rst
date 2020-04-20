@@ -6,7 +6,7 @@ extensions.
 
 * *ArrayExtension*: ``shuffle`` filter -> no equivalent
 
-* *DateExtension*: ``time_diff`` filter -> no equivalent
+* *DateExtension*: ``time_diff`` filter -> <https://github.com/KnpLabs/KnpTimeBundle>
 
 * *I18nExtension*: ``trans`` filter -> use the `trans
   <https://symfony.com/doc/current/reference/twig_reference.html#trans>`_ filter
